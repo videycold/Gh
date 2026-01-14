@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/1DJymvpDWh/");
+    window.open("https://www.facebook.com/share/17qXKSuWiV/");
 }
 /* REDIRECT */
 const video = document.getElementById("video");
@@ -34,6 +34,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
